@@ -1,0 +1,27 @@
+   body {
+   background-size: 100% auto;
+   background-image: url(images/background.png); 
+  
+   }
+   .a1 {
+	   text-align: center;
+	   margin-top:5;
+   }
+   div.a2 {
+   background-color:white;
+       padding:5px;
+	   border:10px solid #efd0a2;
+	   margin-left:25%;
+	   margin-right:25%;
+	   height:2000px;
+	   text-align: center;
+	   overflow: visible;
+	   bottom:100px;
+   }
+   html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
